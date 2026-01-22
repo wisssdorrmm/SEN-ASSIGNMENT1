@@ -1,13 +1,15 @@
 # SEN 201 - Hello World Project
 
-## Project Overview
-This is a simple HTML project created for the SEN 201 assignment.  
-The project displays a basic "Hello, World!" message along with student details.
+https://github.com/wisssdorrmm/SEN-ASSIGNMENT1.git
 
 ## Student Information
 - **Name:** IFIOK-OBONG UDUAK UDOUDO  
 - **Department:** Computer Science  
 - **Matric Number:** 24/14738  
+
+## Project Overview
+This is a simple HTML project created for the SEN 201 assignment.  
+The project displays a basic "Hello, World!" message along with student details.
 
 ## Project Features
 - Displays My name, department, and matric number  
